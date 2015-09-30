@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Pesho</name>
+    <sex>male</sex>
+    <birth-date>11.11.1991</birth-date>
+    <phone>+359123456789</phone>
+    <email>Pesho@gmail.com</email>
+    <course>3</course>
+    <specialty>Computer science</specialty>
+    <faculty-number>1234567</faculty-number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <tutor>Blagoy</tutor>
+        <score>100</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Grisho</name>
+    <sex>male</sex>
+    <birth-date>11.11.1995</birth-date>
+    <phone>+359123456999</phone>
+    <email>Grisho@gmail.com</email>
+    <course>2</course>
+    <specialty>Computer science</specialty>
+    <faculty-number>1234577</faculty-number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <tutor>Kiro</tutor>
+        <score>200</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Violetka</name>
+    <sex>female</sex>
+    <birth-date>10.10.1989</birth-date>
+    <phone>+359123456009</phone>
+    <email>Viloetka@gmail.com</email>
+    <course>4</course>
+    <specialty>Computer science</specialty>
+    <faculty-number>1230077</faculty-number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <tutor>Balgoy</tutor>
+        <score>150</score>
+      </exam>
+    </exams>
+  </student>
+</students>
