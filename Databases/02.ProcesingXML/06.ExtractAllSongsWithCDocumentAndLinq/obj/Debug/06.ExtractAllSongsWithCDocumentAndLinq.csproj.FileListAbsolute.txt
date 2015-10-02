@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\06.ExtractAllSongsWithCDocumentAndLinq\bin\Debug\06.ExtractAllSongsWithCDocumentAndLinq.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\06.ExtractAllSongsWithCDocumentAndLinq\bin\Debug\06.ExtractAllSongsWithCDocumentAndLinq.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\06.ExtractAllSongsWithCDocumentAndLinq\bin\Debug\06.ExtractAllSongsWithCDocumentAndLinq.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\06.ExtractAllSongsWithCDocumentAndLinq\obj\Debug\06.ExtractAllSongsWithCDocumentAndLinq.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\06.ExtractAllSongsWithCDocumentAndLinq\obj\Debug\06.ExtractAllSongsWithCDocumentAndLinq.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\06.ExtractAllSongsWithCDocumentAndLinq\obj\Debug\06.ExtractAllSongsWithCDocumentAndLinq.csprojResolveAssemblyReference.cache

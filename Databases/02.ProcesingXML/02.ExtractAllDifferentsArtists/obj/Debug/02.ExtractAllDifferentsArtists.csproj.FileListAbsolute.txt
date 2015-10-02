@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\02.ExtractAllDifferentsArtists\bin\Debug\02.ExtractAllDifferentsArtists.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\02.ExtractAllDifferentsArtists\bin\Debug\02.ExtractAllDifferentsArtists.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\02.ExtractAllDifferentsArtists\bin\Debug\02.ExtractAllDifferentsArtists.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\02.ExtractAllDifferentsArtists\obj\Debug\02.ExtractAllDifferentsArtists.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\02.ExtractAllDifferentsArtists\obj\Debug\02.ExtractAllDifferentsArtists.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\02.ExtractAllDifferentsArtists\obj\Debug\02.ExtractAllDifferentsArtists.csprojResolveAssemblyReference.cache

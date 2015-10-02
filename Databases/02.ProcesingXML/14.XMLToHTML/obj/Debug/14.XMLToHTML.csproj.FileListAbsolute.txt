@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\14.XMLToHTML\bin\Debug\14.XMLToHTML.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\14.XMLToHTML\bin\Debug\14.XMLToHTML.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\14.XMLToHTML\bin\Debug\14.XMLToHTML.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\14.XMLToHTML\obj\Debug\14.XMLToHTML.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\14.XMLToHTML\obj\Debug\14.XMLToHTML.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\14.XMLToHTML\obj\Debug\14.XMLToHTML.pdb

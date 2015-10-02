@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <albums>
+    <name>Rebirth</name>
+    <artist>Lil Wayne</artist>
+    <year>2014</year>
+    <producer>Mark Jakson</producer>
+    <price>19</price>
+    <songs>
+      <title>Da Da Da</title>
+      <duration>4.23</duration>
+    </songs>
+    <songs>
+      <title>The Price is Wrong</title>
+      <duration>3.05</duration>
+    </songs>
+    <songs>
+      <title>Paradice</title>
+      <duration>5.50</duration>
+    </songs>
+  </albums>
+</catalogue>

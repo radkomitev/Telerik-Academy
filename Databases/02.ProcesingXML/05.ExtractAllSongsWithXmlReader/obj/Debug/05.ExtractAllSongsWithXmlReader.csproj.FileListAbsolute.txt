@@ -1,0 +1,5 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\05.ExtractAllSongsWithXmlReader\bin\Debug\05.ExtractAllSongsWithXmlReader.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\05.ExtractAllSongsWithXmlReader\bin\Debug\05.ExtractAllSongsWithXmlReader.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\05.ExtractAllSongsWithXmlReader\bin\Debug\05.ExtractAllSongsWithXmlReader.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\05.ExtractAllSongsWithXmlReader\obj\Debug\05.ExtractAllSongsWithXmlReader.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\05.ExtractAllSongsWithXmlReader\obj\Debug\05.ExtractAllSongsWithXmlReader.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogue.xslt"?>
+<catalogue>
+  <albums>
+    <name>Recovery</name>
+    <artist>Eminem</artist>
+    <year>2000</year>
+    <producer>Jist Blaze</producer>
+    <price>Twenty</price>
+    <songs>
+      <title>Cold Wind Blows</title>
+      <duration>5.03</duration>
+    </songs>
+    <songs>
+      <title>On Fire</title>
+      <duration>3.33</duration>
+    </songs>
+    <songs>
+      <title>So Bad</title>
+      <duration>5.25</duration>
+    </songs>
+  </albums>
+</catalogue>

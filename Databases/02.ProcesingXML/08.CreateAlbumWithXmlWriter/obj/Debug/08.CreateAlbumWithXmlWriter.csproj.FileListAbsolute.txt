@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\08.CreateAlbumWithXmlWriter\bin\Debug\08.CreateAlbumWithXmlWriter.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\08.CreateAlbumWithXmlWriter\obj\Debug\08.CreateAlbumWithXmlWriter.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\08.CreateAlbumWithXmlWriter\bin\Debug\08.CreateAlbumWithXmlWriter.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\08.CreateAlbumWithXmlWriter\bin\Debug\08.CreateAlbumWithXmlWriter.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\08.CreateAlbumWithXmlWriter\obj\Debug\08.CreateAlbumWithXmlWriter.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\08.CreateAlbumWithXmlWriter\obj\Debug\08.CreateAlbumWithXmlWriter.pdb

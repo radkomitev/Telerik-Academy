@@ -1,0 +1,5 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\12.ExtractAlbumsFiveYearsAgoWithLinq\bin\Debug\12.ExtractAlbumsFiveYearsAgoWithLinq.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\12.ExtractAlbumsFiveYearsAgoWithLinq\bin\Debug\12.ExtractAlbumsFiveYearsAgoWithLinq.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\12.ExtractAlbumsFiveYearsAgoWithLinq\bin\Debug\12.ExtractAlbumsFiveYearsAgoWithLinq.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\12.ExtractAlbumsFiveYearsAgoWithLinq\obj\Debug\12.ExtractAlbumsFiveYearsAgoWithLinq.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\12.ExtractAlbumsFiveYearsAgoWithLinq\obj\Debug\12.ExtractAlbumsFiveYearsAgoWithLinq.pdb

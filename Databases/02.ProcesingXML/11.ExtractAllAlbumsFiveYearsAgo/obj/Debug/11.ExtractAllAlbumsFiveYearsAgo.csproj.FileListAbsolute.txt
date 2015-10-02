@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\11.ExtractAllAlbumsFiveYearsAgo\bin\Debug\11.ExtractAllAlbumsFiveYearsAgo.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\11.ExtractAllAlbumsFiveYearsAgo\bin\Debug\11.ExtractAllAlbumsFiveYearsAgo.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\11.ExtractAllAlbumsFiveYearsAgo\bin\Debug\11.ExtractAllAlbumsFiveYearsAgo.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\11.ExtractAllAlbumsFiveYearsAgo\obj\Debug\11.ExtractAllAlbumsFiveYearsAgo.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\11.ExtractAllAlbumsFiveYearsAgo\obj\Debug\11.ExtractAllAlbumsFiveYearsAgo.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\11.ExtractAllAlbumsFiveYearsAgo\obj\Debug\11.ExtractAllAlbumsFiveYearsAgo.pdb

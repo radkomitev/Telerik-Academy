@@ -1,0 +1,5 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\07.TextTransformInXML\bin\Debug\07.TextTransformInXML.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\07.TextTransformInXML\bin\Debug\07.TextTransformInXML.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\07.TextTransformInXML\bin\Debug\07.TextTransformInXML.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\07.TextTransformInXML\obj\Debug\07.TextTransformInXML.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\07.TextTransformInXML\obj\Debug\07.TextTransformInXML.pdb

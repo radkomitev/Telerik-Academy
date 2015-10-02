@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="catalogue.xslt"?>
+<catalogue>
+  <albums>
+    <name>Recovery</name>
+    <artist>Eminem</artist>
+    <year>2000</year>
+    <producer>Jist Blaze</producer>
+    <price>22</price>
+    <songs>
+      <title>Cold Wind Blows</title>
+      <duration>5.03</duration>
+    </songs>
+    <songs>
+      <title>On Fire</title>
+      <duration>3.33</duration>
+    </songs>
+    <songs>
+      <title>So Bad</title>
+      <duration>5.25</duration>
+    </songs>
+  </albums>
+  <albums>
+    <name>Rebirth</name>
+    <artist>Lil Wayne</artist>
+    <year>2014</year>
+    <producer>Mark Jakson</producer>
+    <price>19</price>
+    <songs>
+      <title>Da Da Da</title>
+      <duration>4.23</duration>
+    </songs>
+    <songs>
+      <title>The Price is Wrong</title>
+      <duration>3.05</duration>
+    </songs>
+    <songs>
+      <title>Paradice</title>
+      <duration>5.50</duration>
+    </songs>
+  </albums>
+  <albums>
+    <name>Free Weeziy</name>
+    <artist>Lil Wayne</artist>
+    <year>2015</year>
+    <producer>Kane Beatz</producer>
+    <price>25</price>
+    <songs>
+      <title>Glory</title>
+      <duration>5.06</duration>
+    </songs>
+    <songs>
+      <title>I Feel Good</title>
+      <duration>3.10</duration>
+    </songs>
+    <songs>
+      <title>Stret Chains</title>
+      <duration>3.20</duration>
+    </songs>
+  </albums>
+</catalogue>

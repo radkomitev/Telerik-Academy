@@ -1,0 +1,5 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\16.CheckXSDSchema\bin\Debug\16.CheckXSDSchema.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\16.CheckXSDSchema\bin\Debug\16.CheckXSDSchema.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\16.CheckXSDSchema\bin\Debug\16.CheckXSDSchema.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\16.CheckXSDSchema\obj\Debug\16.CheckXSDSchema.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\16.CheckXSDSchema\obj\Debug\16.CheckXSDSchema.pdb

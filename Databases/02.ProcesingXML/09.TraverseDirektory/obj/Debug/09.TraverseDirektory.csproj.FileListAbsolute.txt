@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\09.TraverseDirektory\bin\Debug\09.TraverseDirektory.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\09.TraverseDirektory\bin\Debug\09.TraverseDirektory.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\09.TraverseDirektory\bin\Debug\09.TraverseDirektory.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\09.TraverseDirektory\obj\Debug\09.TraverseDirektory.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\09.TraverseDirektory\obj\Debug\09.TraverseDirektory.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\09.TraverseDirektory\obj\Debug\09.TraverseDirektory.pdb

@@ -1,0 +1,1 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\07.TextTransformInXML\bin\Debug\07.TextTransformInXML.exe.config

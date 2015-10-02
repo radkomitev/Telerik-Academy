@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\03.ExtractAllDifferentArtistXpath\bin\Debug\03.ExtractAllDifferentArtistXpath.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\03.ExtractAllDifferentArtistXpath\bin\Debug\03.ExtractAllDifferentArtistXpath.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\03.ExtractAllDifferentArtistXpath\bin\Debug\03.ExtractAllDifferentArtistXpath.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\03.ExtractAllDifferentArtistXpath\obj\Debug\03.ExtractAllDifferentArtistXpath.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\03.ExtractAllDifferentArtistXpath\obj\Debug\03.ExtractAllDifferentArtistXpath.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\03.ExtractAllDifferentArtistXpath\obj\Debug\03.ExtractAllDifferentArtistXpath.pdb

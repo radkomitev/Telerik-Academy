@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<albums>
+		<album>
+				<name>Recovery</name>
+				<artist>Eminem</artist>
+		</album>
+		<album>
+				<name>Rebirth</name>
+				<artist>Lil Wayne</artist>
+		</album>
+		<album>
+				<name>Free Weeziy</name>
+				<artist>Lil Wayne</artist>
+		</album>
+</albums>

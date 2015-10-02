@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\10.TraverseWithXDocument\bin\Debug\10.TraverseWithXDocument.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\10.TraverseWithXDocument\bin\Debug\10.TraverseWithXDocument.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\10.TraverseWithXDocument\bin\Debug\10.TraverseWithXDocument.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\10.TraverseWithXDocument\obj\Debug\10.TraverseWithXDocument.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\10.TraverseWithXDocument\obj\Debug\10.TraverseWithXDocument.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\10.TraverseWithXDocument\obj\Debug\10.TraverseWithXDocument.pdb

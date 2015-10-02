@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\04.DeleteAllAlbumsWithPriceMoreThan20\bin\Debug\04.DeleteAllAlbumsWithPriceMoreThan20.exe.config
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\04.DeleteAllAlbumsWithPriceMoreThan20\bin\Debug\04.DeleteAllAlbumsWithPriceMoreThan20.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\04.DeleteAllAlbumsWithPriceMoreThan20\bin\Debug\04.DeleteAllAlbumsWithPriceMoreThan20.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\04.DeleteAllAlbumsWithPriceMoreThan20\obj\Debug\04.DeleteAllAlbumsWithPriceMoreThan20.exe
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\04.DeleteAllAlbumsWithPriceMoreThan20\obj\Debug\04.DeleteAllAlbumsWithPriceMoreThan20.pdb
+D:\TELERIK\Homeworks\11.Databases\02.Procesing XML inNET\ProcesingXML\04.DeleteAllAlbumsWithPriceMoreThan20\obj\Debug\04.DeleteAllAlbumsWithPriceMoreThan20.csprojResolveAssemblyReference.cache
