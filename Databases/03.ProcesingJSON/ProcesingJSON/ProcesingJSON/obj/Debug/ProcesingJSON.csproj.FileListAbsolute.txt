@@ -1,0 +1,8 @@
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\bin\Debug\ProcesingJSON.exe.config
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\obj\Debug\ProcesingJSON.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\bin\Debug\ProcesingJSON.exe
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\bin\Debug\ProcesingJSON.pdb
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\bin\Debug\Newtonsoft.Json.dll
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\bin\Debug\Newtonsoft.Json.xml
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\obj\Debug\ProcesingJSON.exe
+D:\TELERIK\Homeworks\11.Databases\03..ProcesingJSON\ProcesingJSON\ProcesingJSON\obj\Debug\ProcesingJSON.pdb
