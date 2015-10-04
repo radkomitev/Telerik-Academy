@@ -6,7 +6,8 @@ A database model is a type of data model that determines the logical structure o
   - Network
   - Relational
   - Object-oriented
-##### Relational
+  
+#### Relational
 Relational Database Management Systems (RDBMS) manage data stored in tables.
 Popular RDBMS servers:
  - Microsoft SQL Server
@@ -85,7 +86,7 @@ Transactions are a sequence of database operations which are executed as a singl
 Example:
  - A bank transfer from one account into another (withdrawal + deposit)
  - If either the withdrawal or the deposit fails the entire operation should be cancelled
- - 
+ 
 #### 11. What is a NoSQL database?
 NoSQL == “No SQL” or “Not Only SQL”?
  - Use document-based model (non-relational)
