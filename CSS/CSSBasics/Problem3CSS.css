@@ -1,0 +1,42 @@
+﻿body {
+    background-color:ButtonShadow;
+}
+h1 {
+    font-size:50px;
+    text-align:center;
+    color:wheat;
+}
+article header h1 {
+    text-align:left;
+    font-size:35px;
+}
+ul {
+    text-align:center;
+    list-style-type:none;
+}
+li a {
+    text-decoration:none;
+    color:wheat;
+    font-size:20px;
+}
+li:last-of-type {
+    text-decoration:underline;
+}
+.current {
+    background-color:lemonchiffon;
+}
+a:hover {
+    text-decoration:underline;
+}
+section article footer p {
+    font-size:12px;
+    text-align:left;
+}
+section article footer p a {
+    text-decoration:none;
+    color:black;
+}
+footer {
+    text-align:center;
+    font-weight:bold;
+}

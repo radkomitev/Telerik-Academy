@@ -1,0 +1,6 @@
+D:\TELERIK\Javascript UI DOM\ExamPreparation2\Exams\Task2GalleryCat\bin\Task2GalleryCat.dll.config
+D:\TELERIK\Javascript UI DOM\ExamPreparation2\Exams\Task2GalleryCat\bin\Task2GalleryCat.dll
+D:\TELERIK\Javascript UI DOM\ExamPreparation2\Exams\Task2GalleryCat\bin\Task2GalleryCat.pdb
+D:\TELERIK\Javascript UI DOM\ExamPreparation2\Exams\Task2GalleryCat\obj\Debug\Task2GalleryCat.dll
+D:\TELERIK\Javascript UI DOM\ExamPreparation2\Exams\Task2GalleryCat\obj\Debug\Task2GalleryCat.pdb
+D:\TELERIK\Javascript UI DOM\ExamPreparation2\Exams\Task2GalleryCat\obj\Debug\Task2GalleryCat.csprojResolveAssemblyReference.cache
