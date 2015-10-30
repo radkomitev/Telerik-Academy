@@ -1,0 +1,10 @@
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EF.exe.config
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EF.exe
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EF.pdb
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EntityFramework.dll
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EntityFramework.xml
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\obj\Debug\EF.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\obj\Debug\EF.exe
+D:\TELERIK\Homeworks\11.Databases\11.EF\EF\EF\obj\Debug\EF.pdb

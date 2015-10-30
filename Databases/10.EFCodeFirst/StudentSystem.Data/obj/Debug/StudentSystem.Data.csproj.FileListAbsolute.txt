@@ -1,0 +1,12 @@
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Model.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Model.pdb

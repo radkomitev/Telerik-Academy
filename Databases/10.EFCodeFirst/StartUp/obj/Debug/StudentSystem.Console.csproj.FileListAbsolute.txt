@@ -1,0 +1,14 @@
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StartUp.exe.config
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StartUp.exe
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StartUp.pdb
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\EntityFramework.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StudentSystem.Data.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StudentSystem.Model.dll
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StudentSystem.Data.pdb
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\StudentSystem.Model.pdb
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\EntityFramework.xml
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\bin\Debug\EntityFramework.SqlServer.xml
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\obj\Debug\StudentSystem.Console.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\obj\Debug\StartUp.exe
+D:\TELERIK\Homeworks\11.Databases\12.EFCodeFirstTest\StudentSystem\StartUp\obj\Debug\StartUp.pdb
