@@ -1,0 +1,6 @@
+D:\TELERIK\C# OOP\MyExam\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+D:\TELERIK\C# OOP\MyExam\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# OOP\MyExam\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+D:\TELERIK\C# OOP\MyExam\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+D:\TELERIK\C# OOP\MyExam\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+D:\TELERIK\C# OOP\MyExam\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb
