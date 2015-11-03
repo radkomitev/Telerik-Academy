@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\JediMeditation\JediMeditation\bin\Debug\JediMeditation.exe.config
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\JediMeditation\JediMeditation\obj\Debug\JediMeditation.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\JediMeditation\JediMeditation\bin\Debug\JediMeditation.exe
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\JediMeditation\JediMeditation\bin\Debug\JediMeditation.pdb
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\JediMeditation\JediMeditation\obj\Debug\JediMeditation.exe
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\JediMeditation\JediMeditation\obj\Debug\JediMeditation.pdb
