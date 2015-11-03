@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccuerenceOfEachValue", "OccuerenceOfEachValue\OccuerenceOfEachValue.csproj", "{02A818CA-9F85-4374-9BEB-01F7949DBCDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccuerencesElements", "OddOccuerencesElements\OddOccuerencesElements.csproj", "{108332FF-F9B5-48D9-93DD-4B1A03CCD6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingAppearsWordInText", "CountingAppearsWordInText\CountingAppearsWordInText.csproj", "{ABDD9B4B-877F-4F7D-A442-5606963A705C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A818CA-9F85-4374-9BEB-01F7949DBCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A818CA-9F85-4374-9BEB-01F7949DBCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A818CA-9F85-4374-9BEB-01F7949DBCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A818CA-9F85-4374-9BEB-01F7949DBCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108332FF-F9B5-48D9-93DD-4B1A03CCD6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108332FF-F9B5-48D9-93DD-4B1A03CCD6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108332FF-F9B5-48D9-93DD-4B1A03CCD6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108332FF-F9B5-48D9-93DD-4B1A03CCD6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDD9B4B-877F-4F7D-A442-5606963A705C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDD9B4B-877F-4F7D-A442-5606963A705C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDD9B4B-877F-4F7D-A442-5606963A705C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDD9B4B-877F-4F7D-A442-5606963A705C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

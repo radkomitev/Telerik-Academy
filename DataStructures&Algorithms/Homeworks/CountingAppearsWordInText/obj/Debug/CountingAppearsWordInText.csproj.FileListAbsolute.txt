@@ -1,0 +1,6 @@
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\02.DictAndHashTables\CountingAppearsWordInText\bin\Debug\CountingAppearsWordInText.exe.config
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\02.DictAndHashTables\CountingAppearsWordInText\bin\Debug\CountingAppearsWordInText.exe
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\02.DictAndHashTables\CountingAppearsWordInText\bin\Debug\CountingAppearsWordInText.pdb
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\02.DictAndHashTables\CountingAppearsWordInText\obj\Debug\CountingAppearsWordInText.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\02.DictAndHashTables\CountingAppearsWordInText\obj\Debug\CountingAppearsWordInText.exe
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\02.DictAndHashTables\02.DictAndHashTables\CountingAppearsWordInText\obj\Debug\CountingAppearsWordInText.pdb
