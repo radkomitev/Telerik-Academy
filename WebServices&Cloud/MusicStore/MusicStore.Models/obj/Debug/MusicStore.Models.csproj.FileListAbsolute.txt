@@ -1,0 +1,10 @@
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\MusicStore.Models.dll.config
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\MusicStore.Models.dll
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\MusicStore.Models.pdb
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\EntityFramework.dll
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\EntityFramework.xml
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\obj\Debug\MusicStore.Models.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\obj\Debug\MusicStore.Models.dll
+D:\TELERIK\Homeworks\12. Web services and Cloud\01.ASPNet WebApi Homework\MusicStore\MusicStore.Models\obj\Debug\MusicStore.Models.pdb
