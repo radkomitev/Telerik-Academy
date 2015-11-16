@@ -1,0 +1,8 @@
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\bin\Debug\PriorityQueue.exe
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\bin\Debug\PriorityQueue.pdb
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\obj\Debug\PriorityQueue.exe
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\obj\Debug\PriorityQueue.pdb
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\bin\Debug\PowerCollections.dll
+D:\TELERIK\Homeworks\13.DataStructures&Algorithms\03.AdvancedStructures\AdvancedStructures\PriorityQueue\bin\Debug\PowerCollections.xml
