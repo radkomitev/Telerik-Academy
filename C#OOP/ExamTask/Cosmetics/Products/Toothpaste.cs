@@ -23,7 +23,11 @@
 
         public string Ingredients      
         {
-            get { return this.ingredients.ToString(); }
+            get
+            {
+                return this.ingredients.ToString();
+            }
+
             protected set
             {
                 if (string.IsNullOrEmpty(value) || value.Length < 4 || value.Length > 12)
@@ -36,6 +40,7 @@
                 }
             }
         }
+
         public override string ToString()
         {
             var ingredientsAsString = this.ingredients.Count() > 0

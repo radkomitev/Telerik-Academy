@@ -11,9 +11,7 @@
     public class ShoppingCart : IShoppingCart
     {
         ICollection<IProduct> products;
-        
-        
-
+             
         public ShoppingCart()
         {
             this.products = new List<IProduct>();
@@ -35,6 +33,7 @@
             {
                 return true;
             }
+
             else
             {
                 return false;
@@ -49,6 +48,7 @@
             {
                 result += product.Price;
             }
+
           return result;
         }
     }
