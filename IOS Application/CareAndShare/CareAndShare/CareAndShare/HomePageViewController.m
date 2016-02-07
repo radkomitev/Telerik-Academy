@@ -4,6 +4,7 @@
 @implementation HomePageViewController
 -(void) viewDidLoad{
     [self.labelAboutApp setHidden:YES];
+    self.title = @"Home page";
 }
 
 - (IBAction)buttonAboutApp:(id)sender {

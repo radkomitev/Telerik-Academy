@@ -13,7 +13,7 @@
 -(void)viewDidLoad{
 
     [super viewDidLoad];
-    
+    self.title = @"Statistic";
     NSMutableArray *dataArray = [[NSMutableArray alloc] init];
     NSNumber *allProblems = [NSNumber numberWithInt:25];
     NSNumber *solvedProblems = [NSNumber numberWithInt:5];

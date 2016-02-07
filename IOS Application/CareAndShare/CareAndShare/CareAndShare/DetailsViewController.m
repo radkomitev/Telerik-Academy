@@ -16,6 +16,7 @@
     [self.dataPicker selectRow:2 inComponent:0 animated:YES];
     [self.labelPriorityLow setHidden:YES];
     [self.labelPriorityHigh setHidden:YES];
+    self.title = @"Details";
     
 }
 

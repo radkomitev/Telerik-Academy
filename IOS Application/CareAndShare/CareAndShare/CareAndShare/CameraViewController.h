@@ -1,5 +1,9 @@
 #import <UIKit/UIKit.h>
 
-@interface CameraViewController : UIViewController
+@interface CameraViewController : UIViewController<UIImagePickerControllerDelegate, UINavigationControllerDelegate>
+- (IBAction)buttonTakePhoto:(id)sender;
+@property (weak, nonatomic) IBOutlet UIButton *buttonGoToDetailsPage;
+
+@property (weak, nonatomic) IBOutlet UIImageView *imageView;
 
 @end

@@ -14,13 +14,15 @@
 		C08631341C56748900BB90B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C08631331C56748900BB90B2 /* Assets.xcassets */; };
 		C08631371C56748900BB90B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C08631351C56748900BB90B2 /* LaunchScreen.storyboard */; };
 		C08631411C56750E00BB90B2 /* HomePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C08631401C56750E00BB90B2 /* HomePageViewController.m */; };
-		C08631441C56753200BB90B2 /* LocationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C08631431C56753200BB90B2 /* LocationViewController.m */; };
 		C08631471C56755D00BB90B2 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C08631461C56755D00BB90B2 /* CameraViewController.m */; };
 		C086314A1C56756D00BB90B2 /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C08631491C56756D00BB90B2 /* DetailsViewController.m */; };
 		C086314C1C5691EE00BB90B2 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C086314B1C5691EE00BB90B2 /* MapKit.framework */; };
 		C0DB3FA21C5B7FCB00451BCB /* DLPieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = C0DB3FA11C5B7FCB00451BCB /* DLPieChart.m */; };
 		C0DB3FA51C5B810B00451BCB /* CoverPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0DB3FA41C5B810B00451BCB /* CoverPageViewController.m */; };
 		C0DB3FA71C5B83E700451BCB /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0DB3FA61C5B83E700451BCB /* QuartzCore.framework */; };
+		C0DB3FAC1C661FAC00451BCB /* LViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0DB3FAB1C661FAC00451BCB /* LViewController.swift */; };
+		C0DB3FAF1C66413400451BCB /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0DB3FAD1C66413400451BCB /* Bolts.framework */; };
+		C0DB3FB01C66413400451BCB /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0DB3FAE1C66413400451BCB /* Parse.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,8 +37,6 @@
 		C08631381C56748900BB90B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C086313F1C56750E00BB90B2 /* HomePageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomePageViewController.h; sourceTree = "<group>"; };
 		C08631401C56750E00BB90B2 /* HomePageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomePageViewController.m; sourceTree = "<group>"; };
-		C08631421C56753200BB90B2 /* LocationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationViewController.h; sourceTree = "<group>"; };
-		C08631431C56753200BB90B2 /* LocationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationViewController.m; sourceTree = "<group>"; };
 		C08631451C56755D00BB90B2 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
 		C08631461C56755D00BB90B2 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
 		C08631481C56756D00BB90B2 /* DetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailsViewController.h; sourceTree = "<group>"; };
@@ -47,6 +47,10 @@
 		C0DB3FA31C5B810B00451BCB /* CoverPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoverPageViewController.h; sourceTree = "<group>"; };
 		C0DB3FA41C5B810B00451BCB /* CoverPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoverPageViewController.m; sourceTree = "<group>"; };
 		C0DB3FA61C5B83E700451BCB /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		C0DB3FAB1C661FAC00451BCB /* LViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LViewController.swift; sourceTree = "<group>"; };
+		C0DB3FAD1C66413400451BCB /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		C0DB3FAE1C66413400451BCB /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		C0DB3FB11C66424300451BCB /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +58,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0DB3FAF1C66413400451BCB /* Bolts.framework in Frameworks */,
 				C0DB3FA71C5B83E700451BCB /* QuartzCore.framework in Frameworks */,
+				C0DB3FB01C66413400451BCB /* Parse.framework in Frameworks */,
 				C086314C1C5691EE00BB90B2 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -65,6 +71,9 @@
 		C08631181C56748900BB90B2 = {
 			isa = PBXGroup;
 			children = (
+				C0DB3FB11C66424300451BCB /* AudioToolbox.framework */,
+				C0DB3FAD1C66413400451BCB /* Bolts.framework */,
+				C0DB3FAE1C66413400451BCB /* Parse.framework */,
 				C0DB3FA61C5B83E700451BCB /* QuartzCore.framework */,
 				C0DB3F9F1C5B7FCB00451BCB /* Pie Chart Library */,
 				C086314B1C5691EE00BB90B2 /* MapKit.framework */,
@@ -108,16 +117,15 @@
 		C086313E1C5674D400BB90B2 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				C086313F1C56750E00BB90B2 /* HomePageViewController.h */,
 				C08631401C56750E00BB90B2 /* HomePageViewController.m */,
-				C08631421C56753200BB90B2 /* LocationViewController.h */,
-				C08631431C56753200BB90B2 /* LocationViewController.m */,
+				C086313F1C56750E00BB90B2 /* HomePageViewController.h */,
 				C08631451C56755D00BB90B2 /* CameraViewController.h */,
 				C08631461C56755D00BB90B2 /* CameraViewController.m */,
 				C08631481C56756D00BB90B2 /* DetailsViewController.h */,
 				C08631491C56756D00BB90B2 /* DetailsViewController.m */,
 				C0DB3FA31C5B810B00451BCB /* CoverPageViewController.h */,
 				C0DB3FA41C5B810B00451BCB /* CoverPageViewController.m */,
+				C0DB3FAB1C661FAC00451BCB /* LViewController.swift */,
 			);
 			name = ViewControllers;
 			sourceTree = "<group>";
@@ -162,6 +170,7 @@
 				TargetAttributes = {
 					C08631201C56748900BB90B2 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = EP482B5KEU;
 					};
 				};
 			};
@@ -204,12 +213,12 @@
 				C0DB3FA51C5B810B00451BCB /* CoverPageViewController.m in Sources */,
 				C0DB3FA21C5B7FCB00451BCB /* DLPieChart.m in Sources */,
 				C08631411C56750E00BB90B2 /* HomePageViewController.m in Sources */,
+				C0DB3FAC1C661FAC00451BCB /* LViewController.swift in Sources */,
 				C08631291C56748900BB90B2 /* AppDelegate.m in Sources */,
 				C08631321C56748900BB90B2 /* CareAndShare.xcdatamodeld in Sources */,
 				C08631471C56755D00BB90B2 /* CameraViewController.m in Sources */,
 				C086314A1C56756D00BB90B2 /* DetailsViewController.m in Sources */,
 				C08631261C56748900BB90B2 /* main.m in Sources */,
-				C08631441C56753200BB90B2 /* LocationViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,10 +330,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = CareAndShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = accedia.CareAndShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "CareAndShare/CareAndShare-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -332,10 +352,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = CareAndShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = accedia.CareAndShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "CareAndShare/CareAndShare-Bridging-Header.h";
 			};
 			name = Release;
 		};
