@@ -6,4 +6,7 @@
 
 @property (weak, nonatomic) IBOutlet UIImageView *imageView;
 
+@property NSString *longitudeToPass;
+@property NSString *latitudeToPass;
+
 @end

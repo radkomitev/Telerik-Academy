@@ -1,4 +1,5 @@
 #import <UIKit/UIKit.h>
+#import "HomePageViewController.h"
 
 @interface DetailsViewController : UIViewController <UIPickerViewDataSource, UIPickerViewDelegate>
 @property (weak, nonatomic) IBOutlet UITextField *textFieldTitle;

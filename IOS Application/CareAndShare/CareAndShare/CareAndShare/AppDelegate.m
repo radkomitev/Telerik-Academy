@@ -1,12 +1,7 @@
-//
-//  AppDelegate.m
-//  CareAndShare
-//
-//  Created by Mihail Karev on 1/25/16.
-//  Copyright © 2016 Accedia. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
+#import <Parse/Parse.h>
 
 @interface AppDelegate ()
 
@@ -16,8 +11,19 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    [Parse enableLocalDatastore];
+    
+    // Initialize Parse.
+    [Parse setApplicationId:@"MvyH4EW3DSIkEsu8iLHaY6EN86M9oLpN1FbX40g9"
+                  clientKey:@"FshCrKVonUSYYFL9FYYqT0arVomLg1bhc2btbFeE"];
+    
+    [self loadParse];
+    
     return YES;
+}
+
+-(void) loadParse{
+    self.myParseObject = [PFObject objectWithClassName:@"CareAndShare_Problem"];
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

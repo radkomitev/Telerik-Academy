@@ -2,12 +2,14 @@ import UIKit
 import MapKit
 import CoreLocation
 
-class LViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate {
+
+class LViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate{
 
     @IBOutlet weak var mapView: MKMapView!
     
     @IBOutlet weak var labelLatitude: UILabel!
     @IBOutlet weak var labelLongitude: UILabel!
+    
     let locationManager = CLLocationManager();
     
     override func viewDidLoad() {
@@ -23,6 +25,8 @@ class LViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDel
         self.locationManager.startUpdatingLocation()
         
         self.mapView.showsUserLocation = true
+        
+        
     }
     
     override func didReceiveMemoryWarning() {
@@ -45,9 +49,14 @@ class LViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDel
         
         self.mapView.setRegion(region, animated: true)
         
+        let del = UIApplication.sharedApplication().delegate as! AppDelegate
+        let parseObject = del.myParseObject
+        
+        parseObject["Latitude"] = String(format:"%f", location!.coordinate.latitude)
+        parseObject["Longitude"] = String(format:"%f", location!.coordinate.longitude)
+        
         self.locationManager.stopUpdatingLocation()
     }
-    
     
     func locationManager(manager: CLLocationManager, didFailWithError error: NSError) {
         print("Error: " + error.localizedDescription)

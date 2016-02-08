@@ -1,13 +1,19 @@
 #import "DetailsViewController.h"
+#import <Parse/Parse.h>
+#import "AppDelegate.h"
 
 @interface DetailsViewController()
 {
     NSArray *categories;
+    PFObject *myParseObject;
+    NSString *pr;
+    NSString *category;
 }
 
 @end
 
 @implementation DetailsViewController
+
 
 -(void)viewDidLoad
 {
@@ -17,7 +23,6 @@
     [self.labelPriorityLow setHidden:YES];
     [self.labelPriorityHigh setHidden:YES];
     self.title = @"Details";
-    
 }
 
 -(NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView{
@@ -36,6 +41,9 @@
 -(void) pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component
 {
     self.labelChoosenCategory.text = [categories objectAtIndex:row];
+    category = [categories objectAtIndex:row];
+    [self.textFieldTitle resignFirstResponder];
+    [self.textFieldIdea resignFirstResponder];
 }
 
 - (IBAction)sliderPriority:(UISlider *)sender {
@@ -43,6 +51,7 @@
     int priority = (int) sender.value;
     
     self.labelPriorityValue.text = [@(priority) stringValue];
+    pr =[@(priority) stringValue];
     
     if(priority <3)
     {
@@ -79,5 +88,18 @@
         [self presentViewController:alert animated:YES completion:nil];
         return;
     }
+    else
+    {
+        AppDelegate *delegate = (AppDelegate *)[[UIApplication sharedApplication] delegate];
+        myParseObject = [delegate myParseObject];
+        myParseObject[@"Title"] = self.textFieldTitle.text;
+        myParseObject[@"Description"] = self.textFieldIdea.text;
+        myParseObject[@"Priority"] = pr;
+        myParseObject[@"Category"] = category;
+        [myParseObject saveInBackground];
+        [self.navigationController popToRootViewControllerAnimated:YES];
+      
+    }
+    
 }
 @end

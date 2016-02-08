@@ -1,7 +1,10 @@
 #import "CoverPageViewController.h"
+#import <Parse/Parse.h>
 
 @interface CoverPageViewController(){
     NSMutableArray *dataTitles;
+    NSNumber* allProblems;
+    NSNumber* solvedProblems;
 }
 
 @end
@@ -15,22 +18,22 @@
     [super viewDidLoad];
     self.title = @"Statistic";
     NSMutableArray *dataArray = [[NSMutableArray alloc] init];
-    NSNumber *allProblems = [NSNumber numberWithInt:25];
-    NSNumber *solvedProblems = [NSNumber numberWithInt:5];
     
-    dataTitles = [[NSMutableArray alloc] initWithObjects:@"All problems", @"Solved problems", nil];
+    PFQuery *query = [PFQuery queryWithClassName:@"CareAndShare_Problem"];
     
-    [dataArray addObject:allProblems];
-    [dataArray addObject:solvedProblems];
+    [query findObjectsInBackgroundWithBlock:^(NSArray *objects, NSError *error) {
+        if (!error) {
+            allProblems = [NSNumber numberWithInt:(int)objects.count];
+            solvedProblems = [NSNumber numberWithInt:2];
+            dataTitles = [[NSMutableArray alloc] initWithObjects:@"All problems", @"Solved problems", nil];
+            
+            [dataArray addObject:allProblems];
+            [dataArray addObject:solvedProblems];
     
-    [self.pieChart renderInLayer:self.pieChart dataArray:dataArray];
-    
- //   [self.pieChart customamizeDraw:self.pieChart pieCentre:(CGPointMake(200, 200)) animationSpeed:0.5 labelRadius:(500)];
-    
- //   [self.pieChart drawLegends:self.pieChart dataArray:dataTitles];
- //    self.pieChart.pieRadius = 150;
- //   self.pieChart.pieCenter = CGPointMake(200, 200);
-//  [self.pieChart sizeToFit];
-
+        } else {
+        }
+        
+        [self.pieChart renderInLayer:self.pieChart dataArray:dataArray];
+    }];
 }
 @end

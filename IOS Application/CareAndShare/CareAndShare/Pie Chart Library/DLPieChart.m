@@ -694,7 +694,7 @@ static CGPathRef CGPathCreateArc(CGPoint center, CGFloat radius, CGFloat startAn
     
     //[self.pieChartLeft setStartPieAngle:M_PI_2];
     [layerHostingView setAnimationSpeed:1.5];
-    [layerHostingView setPieRadius:((MIN(layerHostingView.frame.size.width, layerHostingView.frame.size.height) - OFFSET*2))*2];
+    [layerHostingView setPieRadius:((MIN(layerHostingView.frame.size.width, layerHostingView.frame.size.height) - OFFSET*2))/2];
     [layerHostingView setLabelFont:[UIFont fontWithName:@"DBLCDTempBlack" size:(50-DLDataArray.count/2)]];
     [layerHostingView setShowPercentage:NO];
     [layerHostingView setPieBackgroundColor:[UIColor colorWithWhite:0.95 alpha:1]];
